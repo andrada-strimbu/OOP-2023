@@ -1,0 +1,10 @@
+# ninja log v5
+10	360	7061201079677163	CMakeFiles/ShoppingList.dir/Item.cpp.obj	f6f6fa7f40df2c7f
+19	377	7061201079860901	CMakeFiles/ShoppingList.dir/Miscellaneous.cpp.obj	85ad88815c59bec6
+14	378	7061201079870929	CMakeFiles/ShoppingList.dir/Food.cpp.obj	5dd466a5c231960e
+5	454	7061201080641866	CMakeFiles/ShoppingList.dir/ShoppingList.cpp.obj	7af9a0a41d4484bd
+0	469	7061201080785081	CMakeFiles/ShoppingList.dir/main.cpp.obj	d46989faf1b20154
+470	608	7061201082108464	ShoppingList.exe	c23b26c2384f6c27
+7	240	7061214931032755	CMakeFiles/ShoppingList.dir/Miscellaneous.cpp.obj	85ad88815c59bec6
+3	241	7061214931032755	CMakeFiles/ShoppingList.dir/Food.cpp.obj	5dd466a5c231960e
+241	452	7061214933103313	ShoppingList.exe	c23b26c2384f6c27

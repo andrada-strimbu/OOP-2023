@@ -1,0 +1,9 @@
+# ninja log v5
+19	454	7061232360961105	CMakeFiles/UMLMasini.dir/SUV.cpp.obj	44c972bad0b05f51
+1	457	7061232360961105	CMakeFiles/UMLMasini.dir/MasinaOras.cpp.obj	52db2c4f80198e8
+5	470	7061232361124384	CMakeFiles/UMLMasini.dir/Masina.cpp.obj	2f849655da816e48
+25	476	7061232361184629	CMakeFiles/UMLMasini.dir/RangeRover.cpp.obj	472fc739e31ec8b
+32	492	7061232361346523	CMakeFiles/UMLMasini.dir/Dacia.cpp.obj	c5e9541b46bfef4f
+9	558	7061232362021332	CMakeFiles/UMLMasini.dir/main.cpp.obj	9e0cda9f236ed9be
+3	268	7061232516735952	CMakeFiles/UMLMasini.dir/Opel.cpp.obj	f37d2d7fe8b96ac7
+268	360	7061232517627852	UMLMasini.exe	986486bf53d1e16e

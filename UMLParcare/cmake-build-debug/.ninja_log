@@ -1,0 +1,20 @@
+# ninja log v5
+1	915	7061961309291669	CMakeFiles/UMLParcare.dir/main.cpp.obj	35afedbb99a2e18
+22	946	7061961309601556	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+6	951	7061966235149047	CMakeFiles/UMLParcare.dir/main.cpp.obj	35afedbb99a2e18
+15	984	7061966235485668	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+16	1017	7061966778664270	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+5	984	7061969068505000	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+16	628	7061974549502602	CMakeFiles/UMLParcare.dir/Masina.cpp.obj	2eb0155e462cad9c
+33	689	7061974550116440	CMakeFiles/UMLParcare.dir/FerrariRosu.cpp.obj	acc9de08c42eeb35
+57	702	7061974550254646	CMakeFiles/UMLParcare.dir/Toyota.cpp.obj	3dd77fb8d7d0a93
+46	720	7061974550433957	CMakeFiles/UMLParcare.dir/Dacia.cpp.obj	7d2334c6c1be8f91
+6	927	7061974552490199	CMakeFiles/UMLParcare.dir/main.cpp.obj	35afedbb99a2e18
+24	983	7061974553062560	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+984	1195	7061974555096465	UMLParcare.exe	26510df0dcc27d89
+9	893	7061976517348237	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+894	1093	7061976519321513	UMLParcare.exe	26510df0dcc27d89
+9	869	7061977553315057	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+871	1080	7061977555339495	UMLParcare.exe	26510df0dcc27d89
+6	800	7061977859752690	CMakeFiles/UMLParcare.dir/Parcare.cpp.obj	5d958d39a99e78d1
+801	1010	7061977861787710	UMLParcare.exe	26510df0dcc27d89
