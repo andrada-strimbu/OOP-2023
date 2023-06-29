@@ -1,0 +1,3 @@
+C:/Users/Andrada/Documents/fii/Strimbu_Andrada_X/cmake-build-debug/CMakeFiles/Strimbu_Andrada_X.dir
+C:/Users/Andrada/Documents/fii/Strimbu_Andrada_X/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrada/Documents/fii/Strimbu_Andrada_X/cmake-build-debug/CMakeFiles/rebuild_cache.dir
